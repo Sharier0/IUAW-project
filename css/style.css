@@ -1,0 +1,182 @@
+/*====== font link part start ====== */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;200;300;400;500;600;700;800;900&family=Roboto:wght@100;300;400;500;700;900&display=swap');
+
+/*------ font link part start------ */
+/* ---- common css part start ------ */
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+ul,ol{
+    list-style: none;
+}
+a{
+    display: inline-block;
+    text-decoration: none;
+}
+img{
+    width: 100%;
+    max-width: 100%;
+    vertical-align: middle;
+}
+.container{
+    width: 1170px;
+    margin: 0 auto;
+}
+/* ===== xommon css part end ======= */
+/* ---- menu css part start ------ */
+#main_menu{
+    width: 100%;
+    height: 90px;
+    background: #000;
+}
+.main_row{
+    line-height: 90px;
+}
+.main_row .logo_col img{
+    width: 100px;
+    height: 25px;
+}
+.logo_col{
+    width: 25%;
+    float: left;
+}
+.menu_text_col{
+    width: 75%;
+    float: left;
+}
+.menu_text_col ul{
+    float: right;
+}
+.menu_text_col ul li{
+    float: left;
+}
+.menu_text_col ul li a{
+    font-size: 14px;
+    font-weight: 700;
+    font-family: 'Roboto', sans-serif;
+    color: #f5f5f5;
+    text-transform: uppercase;
+    margin-left: 43px;
+    transition: all linear .3s;
+}
+.menu_text_col ul li a:hover{
+    color: #28b8d8;
+
+}
+/* ===== menu css part end ======= */
+/* ---- banner css part start ------ */
+#banner{
+    background: url(../images/kubb_banner.png);
+    padding-top: 241px;
+    padding-bottom: 252px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.banner_text h1{
+    font-size: 50px;
+    font-weight: 700;
+    font-family: 'Roboto', sans-serif;
+    color: #ffffff;
+    text-transform: uppercase;
+    text-align: center;
+    /* letter-spacing: 4px; */
+}
+.banner_text h2{
+    font-size: 40px;
+    font-weight: 300;
+    font-family: 'Roboto Slab', serif; 
+    color: #ffffff;
+    text-transform: uppercase;
+    text-align: center;
+    letter-spacing: 7px;
+    margin-top: 21px;
+    margin-bottom: 20px;
+}
+.banner_text p{
+    font-size: 14px;
+    font-weight: 300px;
+    font-family: 'Roboto', sans-serif;
+    color: #ffffff;
+    text-align: center;
+}
+/* ===== banner css part end ======= */
+/* ---- about css part start ------ */
+.menu_sec h3{
+    font-size: 30px;
+    font-weight: 300;
+    color: #444444;
+    font-family: 'Roboto Slab', serif; 
+    text-align: center;
+    margin-top: 81px;
+    text-transform: uppercase;
+}
+.menu_sec p{
+    font-size: 14px;
+    font-weight: 400;
+    font-family: 'Roboto', sans-serif;
+    color: #666666;
+    text-align: center;
+    margin-top: 26px;
+    margin-bottom: 78px;
+}
+.menu_sec h4{
+    font-size: 18px;
+    font-weight: 700;
+    font-family: 'Roboto', sans-serif;
+    color: #444444;
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 30px;
+}
+/* ===== about css part end ======= */
+/* ---- Services css part start ------ */
+.services_col{
+    width: 368px;
+    padding: 15px;
+    background: #ffffff;
+    border: 1px solid #e3e3e3;
+    
+}
+.ser_text h3{
+    font-size: 14px;
+    font-weight: 700;
+    font-family: 'Roboto Slab', serif; 
+    color: #444444;
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 15px;
+}
+.ser_text p{
+    font-size: 14px;
+    font-weight: 400;
+    font-family: 'Roboto', sans-serif;
+    color: #444444;
+    text-align: center;
+}
+/* ===== Services css part end ======= */
+
+
+
+
+
+/* ---- common css part start ------ */
+
+/* ===== xommon css part end ======= */
+
+/* ---- common css part start ------ */
+
+/* ===== xommon css part end ======= */
+
+/* ---- common css part start ------ */
+
+/* ===== xommon css part end ======= */
+
+/* ---- common css part start ------ */
+
+/* ===== xommon css part end ======= */
